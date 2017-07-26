@@ -1,0 +1,66 @@
+c:\users\topnanis\documents\visual studio 2010\Projects\CSample\CSample\bin\Debug\CSample.exe.config
+c:\users\topnanis\documents\visual studio 2010\Projects\CSample\CSample\bin\Debug\CSample.exe
+c:\users\topnanis\documents\visual studio 2010\Projects\CSample\CSample\bin\Debug\CSample.pdb
+c:\users\topnanis\documents\visual studio 2010\Projects\CSample\CSample\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\topnanis\documents\visual studio 2010\Projects\CSample\CSample\obj\x86\Debug\CSample.Form1.resources
+c:\users\topnanis\documents\visual studio 2010\Projects\CSample\CSample\obj\x86\Debug\CSample.Properties.Resources.resources
+c:\users\topnanis\documents\visual studio 2010\Projects\CSample\CSample\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\topnanis\documents\visual studio 2010\Projects\CSample\CSample\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\topnanis\documents\visual studio 2010\Projects\CSample\CSample\obj\x86\Debug\CSample.exe
+c:\users\topnanis\documents\visual studio 2010\Projects\CSample\CSample\obj\x86\Debug\CSample.pdb
+C:\Users\jjjj.kim\Desktop\CDragFileOut\CSample\bin\Debug\CSample.exe.config
+C:\Users\jjjj.kim\Desktop\CDragFileOut\CSample\obj\x86\Debug\CSample.exe
+C:\Users\jjjj.kim\Desktop\CDragFileOut\CSample\obj\x86\Debug\CSample.pdb
+C:\Users\jjjj.kim\Desktop\CDragFileOut\CSample\bin\Debug\CSample.exe
+C:\Users\jjjj.kim\Desktop\CDragFileOut\CSample\bin\Debug\CSample.pdb
+C:\Users\jjjj.kim\Desktop\CDragFileOut\CSample\obj\x86\Debug\CSample.Form1.resources
+C:\Users\jjjj.kim\Desktop\CDragFileOut\CSample\obj\x86\Debug\CSample.Properties.Resources.resources
+C:\Users\jjjj.kim\Desktop\CDragFileOut\CSample\obj\x86\Debug\CSample.csproj.GenerateResource.Cache
+C:\Users\jjjj.kim\Desktop\CDragFileOut\CSample\bin\Debug\OpenCvSharp.xml
+C:\Users\jjjj.kim\Desktop\CDragFileOut\CSample\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\jjjj.kim\Desktop\CDragFileOut\CSample\obj\x86\Debug\CSample.csprojResolveAssemblyReference.cache
+C:\Users\jjjj.kim\Documents\Visual Studio 2010\Projects\OpenCV\CSample\bin\Debug\CSample.exe.config
+C:\Users\jjjj.kim\Documents\Visual Studio 2010\Projects\OpenCV\CSample\obj\x86\Debug\CSample.exe
+C:\Users\jjjj.kim\Documents\Visual Studio 2010\Projects\OpenCV\CSample\obj\x86\Debug\CSample.pdb
+C:\Users\jjjj.kim\Documents\Visual Studio 2010\Projects\OpenCV\CSample\obj\x86\Debug\CSample.csprojResolveAssemblyReference.cache
+C:\Users\jjjj.kim\Documents\Visual Studio 2010\Projects\OpenCV\CSample\obj\x86\Debug\CSample.Form1.resources
+C:\Users\jjjj.kim\Documents\Visual Studio 2010\Projects\OpenCV\CSample\obj\x86\Debug\CSample.Properties.Resources.resources
+C:\Users\jjjj.kim\Documents\Visual Studio 2010\Projects\OpenCV\CSample\obj\x86\Debug\CSample.csproj.GenerateResource.Cache
+C:\Users\jjjj.kim\Documents\Visual Studio 2010\Projects\OpenCV\CSample\bin\Debug\CSample.exe
+C:\Users\jjjj.kim\Documents\Visual Studio 2010\Projects\OpenCV\CSample\bin\Debug\CSample.pdb
+C:\Users\jjjj.kim\Documents\Visual Studio 2010\Projects\OpenCV\CSample\bin\Debug\OpenCvSharp.xml
+C:\Users\jjjj.kim\Documents\Visual Studio 2010\Projects\OpenCV\CSample\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\topnanis\Desktop\OpenCV\CSample\bin\Debug\CSample.exe.config
+C:\Users\topnanis\Desktop\OpenCV\CSample\obj\x86\Debug\CSample.exe
+C:\Users\topnanis\Desktop\OpenCV\CSample\obj\x86\Debug\CSample.pdb
+C:\Users\topnanis\Desktop\OpenCV\CSample\bin\Debug\CSample.exe
+C:\Users\topnanis\Desktop\OpenCV\CSample\bin\Debug\CSample.pdb
+C:\Users\topnanis\Desktop\OpenCV\CSample\bin\Debug\OpenCvSharp.xml
+C:\Users\topnanis\Desktop\OpenCV\CSample\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\topnanis\Desktop\OpenCV\CSample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\topnanis\Desktop\OpenCV\CSample\obj\x86\Debug\CSample.Form1.resources
+C:\Users\topnanis\Desktop\OpenCV\CSample\obj\x86\Debug\CSample.Properties.Resources.resources
+C:\Users\topnanis\Desktop\OpenCV\CSample\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\topnanis\Desktop\OpenCV\CSample\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Downloads\OpenCV예제\CSample\bin\Debug\CSample.exe.config
+C:\Users\Administrator\Downloads\OpenCV예제\CSample\obj\x86\Debug\CSample.exe
+C:\Users\Administrator\Downloads\OpenCV예제\CSample\obj\x86\Debug\CSample.pdb
+C:\Users\Administrator\Downloads\OpenCV예제\CSample\bin\Debug\CSample.exe
+C:\Users\Administrator\Downloads\OpenCV예제\CSample\bin\Debug\CSample.pdb
+C:\Users\Administrator\Downloads\OpenCV예제\CSample\bin\Debug\OpenCvSharp.xml
+C:\Users\Administrator\Downloads\OpenCV예제\CSample\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\Administrator\Downloads\OpenCV예제\CSample\obj\x86\Debug\CSample.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\OpenCV예제\CSample\obj\x86\Debug\CSample.Form1.resources
+C:\Users\Administrator\Downloads\OpenCV예제\CSample\obj\x86\Debug\CSample.Properties.Resources.resources
+C:\Users\Administrator\Downloads\OpenCV예제\CSample\obj\x86\Debug\CSample.csproj.GenerateResource.Cache
+V:\OCS_face_detection\CSample\bin\Debug\CSample.exe.config
+V:\OCS_face_detection\CSample\obj\x86\Debug\CSample.exe
+V:\OCS_face_detection\CSample\obj\x86\Debug\CSample.pdb
+V:\OCS_face_detection\CSample\bin\Debug\CSample.exe
+V:\OCS_face_detection\CSample\bin\Debug\CSample.pdb
+V:\OCS_face_detection\CSample\bin\Debug\OpenCvSharp.xml
+V:\OCS_face_detection\CSample\bin\Debug\OpenCvSharp.UserInterface.xml
+V:\OCS_face_detection\CSample\obj\x86\Debug\CSample.csprojResolveAssemblyReference.cache
+V:\OCS_face_detection\CSample\obj\x86\Debug\CSample.Form1.resources
+V:\OCS_face_detection\CSample\obj\x86\Debug\CSample.Properties.Resources.resources
+V:\OCS_face_detection\CSample\obj\x86\Debug\CSample.csproj.GenerateResource.Cache

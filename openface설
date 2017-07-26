@@ -1,0 +1,117 @@
+sudo apt-get update
+sudo apt-get install -y git
+sudo apt-get install -y graphicsmagick
+sudo apt-get install -y python-dev
+sudo apt-get install -y python-pip
+sudo apt-get install -y python-numpy
+sudo apt-get install -y python-nose
+sudo apt-get install -y python-scipy
+sudo apt-get install -y python-pandas
+sudo apt-get install -y python-protobuf
+sudo apt-get install -y wget
+sudo apt-get install -y zip
+sudo apt-get install -y unzip
+sudo apt-get install -y cmake
+sudo apt-get install -y libboost-all-dev
+sudo apt-get install -y luarocks
+
+
+	
+wget https://github.com/Itseez/opencv/archive/2.4.11.zip
+unzip 2.4.11.zip
+cd opencv-2.4.11
+mkdir release
+cd release
+cmake -D CMAKE_BUILD_TYPE=RELEASE -D CMAKE_INSTALL_PREFIX=/usr/local ..
+make
+sudo make install
+
+
+
+wget https://github.com/davisking/dlib/releases/download/v18.16/dlib-18.16.tar.bz2
+bzip2 -d dlib-18.16.tar.bz2
+tar -xvf dlib-18.16.tar
+cd dlib-18.16/
+cd python_examples/
+mkdir build
+cd build
+cmake ../tools/python
+cmake --build . --config Release
+sudo cp dlib.so /usr/local/lib/python2.7/dist-packages/
+
+===> root에서 실행
+mkdir torch
+cd torch/
+sudo git clone https://github.com/torch/distro.git ~/openface/torch --recursive
+./install-deps
+./install.sh
+source ~/.bashrc
+ 
+for NAME in dpnn nn optim optnet csvigo cutorch cunn fblualib torchx tds; do luarocks install $NAME; done
+
+
+
+
+ git clone https://github.com/cmusatyalab/openface.git --recursive
+ cd openface
+ 
+ tree models/
+models/
+├── dlib
+│   ├── mean.csv
+│   └── std.csv
+├── get-models.sh
+└── openface
+    ├── nn2.def.lua
+    ├── nn4.def.lua
+    ├── nn4.small1.def.lua
+    ├── nn4.small2.def.lua
+    ├── resnet1.def.lua
+    ├── vgg-face.def.lua
+    └── vgg-face.small1.def.lua
+2 directories, 10 files
+ 
+ 
+ ./models/get-models.sh
+ tree models/
+models/
+├── dlib
+│   ├── mean.csv
+│   ├── shape_predictor_68_face_landmarks.dat
+│   └── std.csv
+├── get-models.sh
+└── openface
+    ├── celeb-classifier.nn4.small2.v1.pkl
+    ├── nn2.def.lua
+    ├── nn4.def.lua
+    ├── nn4.small1.def.lua
+    ├── nn4.small2.def.lua
+    ├── nn4.small2.v1.t7
+    ├── resnet1.def.lua
+    ├── vgg-face.def.lua
+    └── vgg-face.small1.def.lua
+2 directories, 13 files
+ 
+ sudo pip2 install -r requirements.txt
+ sudo python2 setup.py install 
+ sudo pip2 install -r demos/web/requirements.txt
+ sudo pip2 install -r training/requirements.txt
+
+
+ cd /home/ubuntu/OpenFace/openface
+
+./util/align-dlib.py /home/ubuntu/artist_faces/input_001 align outerEyesAndNose /home/ubuntu/artist_faces/model/aligned-images_exo/ --size 96
+
+./batch-represent/main.lua -outDir /home/ubuntu/artist_faces/model/generated-embeddings-exo/ -data /home/ubuntu/artist_faces/model/aligned-images_exo/
+
+./demos/classifier.py train /home/ubuntu/artist_faces/model/generated-embeddings-exo/
+
+./demos/classifier.py infer /home/ubuntu/artist_faces/model/generated-embeddings-exo/classifier.pkl /home/ubuntu/artist_faces/evaulation/exo/t11.jpg --multi
+/usr/local/lib/python2.7/dist-packages/sklearn/lda.py:4: DeprecationWarning: lda.LDA has been moved to discriminant_analysis.LinearDiscriminantAnalysis in 0.17 and will be removed in 0.19
+  "in 0.17 and will be removed in 0.19", DeprecationWarning)
+ 
+=== /home/ubuntu/artist_faces/evaulation/exo/t11.jpg ===
+List of faces in image from left to right
+Predict exo_xiumin @ x=311 with 1.00 confidence.
+Predict exo_suho @ x=500 with 0.42 confidence.
+Predict exo_dio @ x=741 with 0.97 confidence.
